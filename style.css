@@ -1,0 +1,51 @@
+body{
+    background: url(assets/ville-kaisla-HNCSCpWrVJA-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    text-align: center;
+    font-size: 3rem;
+    text-decoration: underline;
+}
+h2{
+    text-align: center;
+    
+}
+.poster{
+    width:50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    text-align: center;
+}
+.car-poster{
+    border: 5px solid white;
+    width: 500px;
+    
+
+}
+.poster2{
+    width:50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    text-align: center;
+
+}
+.car-poster2{
+    border: 5px solid white;
+    width: 500px;
+   
+}
+.poster3{
+    width:50%;
+    margin-left: 25%;
+    margin-top: 5%;
+    color:white;
+    text-align: center;
+}
+.car-poster3{
+    border: 5px solid white;
+    width: 500px;
+}
